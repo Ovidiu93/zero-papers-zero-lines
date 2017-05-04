@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<body>
+    <diploma_infos>
+        <serial_no></serial_no>
+        <number></number>
+        <studies_length></studies_length>
+        <from_date></from_date>
+
+    </diploma_infos>
+<to></to>
+<from></from>
+
+<session>
+<session_month></session_month>
+<year></year>
+
+</session>
+
+<personal_data>
+<first_name></first_name>
+<last_name></last_name>
+
+    <dob></dob>
+<city></city>
+<county></county>
+<country></country>
+<faculty></faculty>
+</personal_data>
+    
+    <final_exam>
+       <first_exam></first_exam>
+        <first_examGrade></first_examGrade>
+        <second_exam></second_exam>
+        <second_examGrade></second_examGrade>
+        <final_examGPA></final_examGPA>
+        <credits_number></credits_number>
+    </final_exam>
+
+</body>
